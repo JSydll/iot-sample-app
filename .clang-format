@@ -1,0 +1,29 @@
+---
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: 'false'
+AllowShortCaseLabelsOnASingleLine: 'false'
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: 'false'
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Allman
+ColumnLimit: '120'
+FixNamespaceComments: 'true'
+IncludeBlocks: Regroup
+IndentWidth: '2'
+Language: Cpp
+MaxEmptyLinesToKeep: '1'
+SortIncludes: 'true'
+SortUsingDeclarations: 'true'
+SpaceAfterCStyleCast: 'true'
+SpaceBeforeAssignmentOperators: 'true'
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: 'false'
+SpacesBeforeTrailingComments: '2'
+SpacesInAngles: 'false'
+SpacesInCStyleCastParentheses: 'false'
+SpacesInParentheses: 'false'
+SpacesInSquareBrackets: 'false'
+TabWidth: '2'
+---
+Language: Proto
+DisableFormat: true
